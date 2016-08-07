@@ -1,2 +1,2 @@
 # hello-world
-Firs repo
+First repo
